@@ -12,6 +12,6 @@ duplicate an issue with the compilation of precache-manifest and service-worker.
 - copy and edit .env and provide a suitable database
 - run `php artisan key:generate`
 - run `php artisan migrate`
-- run `npm install
+- run `npm install`
 - run `npm run dev`
 - run `npm run serve`
