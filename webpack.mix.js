@@ -19,6 +19,6 @@ const { GenerateSW } = require('workbox-webpack-plugin');
 mix.webpackConfig({
   plugins: [new GenerateSW()],
   output: {
-    publicPath: '.'
+    publicPath: ''
   }
 });
