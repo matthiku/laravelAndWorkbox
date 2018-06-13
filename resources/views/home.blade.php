@@ -15,6 +15,8 @@
                     @endif
 
                     You are logged in! Do something awesome!
+                    You are logged in!
+                    What will you do today?
                 </div>
             </div>
         </div>
